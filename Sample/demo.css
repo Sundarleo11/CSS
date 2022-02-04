@@ -1,0 +1,25 @@
+#div1{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    
+    
+}
+
+#div21{
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    /* position: relative; */
+    /* position: absolute; */
+    position: static;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+#div3{
+    height: 200px;
+    width: 200px;
+    background-color: green;
+}
+
